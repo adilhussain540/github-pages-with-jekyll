@@ -1,6 +1,6 @@
 ---
 title: "Gas fees in a Blockchain"
-date: 2021:06:05
+date: 2021-06-05
 layout: post
 ---
 
