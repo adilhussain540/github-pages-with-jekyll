@@ -1,3 +1,8 @@
+---
+layout: post
+title: Gas fees in a Blockchain
+---
+
 # The concept of Gas fees in a Blockchain
 To understand the Gas fees concept in blockchain better, we've to understand how the traditional online transaction processing system works.
 
