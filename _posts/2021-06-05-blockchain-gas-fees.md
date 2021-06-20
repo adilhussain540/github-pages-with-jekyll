@@ -22,7 +22,7 @@ Gas fees in blockchain and it'll be distributed as an award between all the comp
 
 ![image](https://user-images.githubusercontent.com/31884506/120888078-dc6ef380-c60f-11eb-9502-87d7d5e18f6f.png)
 
-Unline the fixed percentage transaction fee in a system like PayPal, the Gas fees may rise up depending on how many transactions are currently being processed in the Blockchain.
+Unlike the fixed percentage transaction fee in a system like PayPal, the Gas fees may rise up depending on how many transactions are currently being processed in the Blockchain.
 
 
 I hope you've learned something new today, lets catch up in my next blogs.
